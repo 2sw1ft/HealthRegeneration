@@ -1,0 +1,15 @@
+<config>
+	<!-- 	
+		HealthRegeneration configuration file.
+		
+		sleep - Health Regeneration during sleep [Range(0 - 10)]
+		awake - Health Regeneration while awake  [Range(0 - 10)]
+	
+	
+	-->
+	
+	<sleep value="0.05"/>
+	<awake value="0.5"/>
+
+
+</config>
