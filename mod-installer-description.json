@@ -2,5 +2,19 @@
 	"name": "Health Regeneration",
 	"description": "A mod for The Long Dark that lets you change health recovery. You can configure mod in HealthRegeneration.xml.",
 	"url": "https://github.com/2sw1ft/HealthRegeneration",
-	"releases": []
+	"releases": [
+	{
+			"version": "v1.0",
+			"url": "https://github.com/2sw1ft/HealthRegeneration/releases/tag/v1.0",
+			"changes": "",
+			"dependencies": [],
+			"assets": [
+				{
+					"url": "https://github.com/2sw1ft/HealthRegeneration/releases/download/v1.0/HealthRegeneration1.0.zip"
+				}
+			]
+		}, {
+			"version": "v1.0"
+		}
+	]
 }
